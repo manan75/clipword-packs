@@ -5,9 +5,9 @@ permalink: /privacy
 
 # Clipword privacy policy
 
-Last updated: 26 October 2026
+Last updated: 7 November 2026
 
-Clipword is an Android app for saving words you meet in other apps, together with the sentence they came from, and reviewing them as flashcards. It is made by [Developer name] ("we"). Questions or requests: **manankapkar000@gmail.com**.
+Clipword is an Android app for saving words you meet in other apps, together with the sentence they came from, and reviewing them as flashcards. It is made by DevinManny55 ("we"). Questions or requests: **4696.stkabirdin@gmail.com**.
 
 ## The short version
 
@@ -28,7 +28,7 @@ Everything you create in Clipword stays on your phone: the words you save, their
 
 Clipword only receives text you choose to send it: text you select and send with **Save to Clipword**, text you share to it, or text you type or paste into it.
 
-**The clipboard.** When you open Clipword, it checks whether the clipboard holds text, without reading it, so it can offer a "Paste copied text" card. It reads the text only when you tap that card. Clipword never watches the clipboard in the background.
+**The clipboard.** When you open Clipword, it checks whether the clipboard holds text, without reading it, so it can offer a "Paste copied text" card. It reads the text only when you tap that card, or when you tap the Clipword Quick Settings tile or the optional quick-capture notification. Clipword never watches the clipboard in the background.
 
 ## 3. AI explanations (optional)
 
